@@ -1,25 +1,25 @@
-backend/springboot-web/target/
-backend/springboot-web/!.mvn/wrapper/maven-wrapper.jar
+/target/
+!.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
-backend/springboot-web/.apt_generated
-backend/springboot-web/.classpath
-backend/springboot-web/.factorypath
-backend/springboot-web/.project
-backend/springboot-web/.settings
-backend/springboot-web/.springBeans
-backend/springboot-web/.sts4-cache
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
 ### IntelliJ IDEA ###
-backend/springboot-web/.idea
-backend/springboot-web/*.iws
-backend/springboot-web/*.iml
-backend/springboot-web/*.ipr
+.idea
+*.iws
+*.iml
+*.ipr
 
 ### NetBeans ###
-backend/springboot-web/nbproject/private/
-backend/springboot-web/build/
-backend/springboot-web/nbbuild/
-backend/springboot-web/dist/
-backend/springboot-web/nbdist/
-backend/springboot-web/.nb-gradle/
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
