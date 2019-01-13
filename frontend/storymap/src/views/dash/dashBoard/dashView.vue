@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-			  <!-- <img src="../../../assets/A2.png"> -->
+			  <img src="../../../assets/logo.png">
         <!-- <el-row class="dashcontent">
         	 <el-col :span="3" class="left-menu">
 		      		 <el-row class="tac">

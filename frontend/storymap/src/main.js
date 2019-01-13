@@ -2,6 +2,7 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 /* eslint-disable*/
 import Vue from 'vue'
+// import HelloWorld from './components/HelloWorld'
 import router from './router'
 import store from './store'
 import vueGridLayout from 'vue-grid-layout';
@@ -32,7 +33,7 @@ new Vue({
   router,
   store,
   template: '<App/>',
-  // components: {App}
+  // components: {App},
   render:h => h(App)
   
 })

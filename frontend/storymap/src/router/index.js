@@ -14,12 +14,12 @@ export default new Router({
       name: 'Hello',
       hidden: true,
       // redirect (to) {
-      //   return '/views/dash/dashBoard'
+      //   return '/helloworld'
       // }
       component: HelloWorld
     },
     {
-      path: '/views/dash/dashBoard',
+      path: '/dash/dashBoard',
       name: '看板',
       hidden: true,
       component: dashBoard
